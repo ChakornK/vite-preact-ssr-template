@@ -5,9 +5,10 @@
 - Yarn
 - Preact
 - Vite
+- Prerendering
 - TypeScript
 - TailwindCSS
-- Prerendering
+- Catppuccin color palette
 
 ## Getting Started
 
