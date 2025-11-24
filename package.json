@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
+    "lucide-react": "^0.554.0",
     "preact": "^10.27.2",
     "preact-iso": "^2.11.0",
     "preact-render-to-string": "^6.6.3",
