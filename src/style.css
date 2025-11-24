@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@catppuccin/tailwindcss/mocha.css";
+
+:root {
+  font-family: "Quicksand";
+  @apply bg-ctp-base text-ctp-text;
+}
